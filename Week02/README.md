@@ -1,18 +1,23 @@
-# Titanic Survival Prediction using Logistic Regression
+# Week 2 - Machine Learning Models
 
-## Overview
+This folder contains the Week 2 tasks completed during my **NeuroFive Machine Learning Internship**.
 
-This project is part of the **NeuroFive Machine Learning Internship (Week 2 - Task 1).**
+## Task 1: Titanic Survival Prediction
 
-The objective is to build a classification model that predicts whether a passenger survived the Titanic disaster using Logistic Regression.
+- Built a Logistic Regression model
+- Encoded categorical features
+- Split the dataset into training and testing sets
+- Evaluated the model using Accuracy Score and Confusion Matrix
+- Achieved an accuracy of **81.01%**
 
----
+## Task 2: House Price Prediction
 
-## Dataset
-
-- Titanic Dataset (Kaggle)
-
----
+- Built a Linear Regression model
+- Selected five important features
+- Evaluated the model using RMSE and R² Score
+- Achieved:
+  - **RMSE:** 0.786
+  - **R² Score:** 0.529
 
 ## Technologies Used
 
@@ -24,37 +29,4 @@ The objective is to build a classification model that predicts whether a passeng
 - Seaborn
 - Google Colab
 
----
-
-## Machine Learning Workflow
-
-- Data Cleaning
-- Feature Selection
-- Feature Encoding
-- Train-Test Split
-- Logistic Regression
-- Prediction
-- Model Evaluation
-
----
-
-## Model Performance
-
-**Accuracy:** **81.01%**
-
----
-
-## Evaluation Metrics
-
-- Accuracy Score
-- Confusion Matrix
-
----
-
-## Learning Outcomes
-
-- Classification
-- Logistic Regression
-- Feature Engineering
-- Data Preprocessing
-- Model Evaluation
+This week helped me understand the fundamentals of **Classification** and **Regression**, the two core problem types in Machine Learning.
